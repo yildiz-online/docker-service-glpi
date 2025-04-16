@@ -1,6 +1,6 @@
 FROM php:8-apache
 
-ENV GLPI_VERSION=10.0.15
+ENV GLPI_VERSION=10.0.18
 ENV GLPI_CONFIG_DIR=/etc/glpi
 ENV GLPI_VAR_DIR=/var/lib/glpi
 ENV GLPI_LOG_DIR=/var/log/glpi
